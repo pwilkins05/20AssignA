@@ -20,9 +20,11 @@ total number of pips on those dice.  For example, if your rolled three 4s, that 
 
 Lower section:
 
-Three-of-a-kind:
+Three-of-a-kind: At least three of the dice must show the same value. The score is equal to the sum
+of all of the values showing on the dice.
 
-Four-of-a-kind:
+Four-of-a-kind: At least four of the dice must show the same value. The score is equal to the sum of
+all of the values showing on the dice. 
 
 Full House:
 
