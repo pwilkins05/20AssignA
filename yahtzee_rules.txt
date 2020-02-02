@@ -26,7 +26,7 @@ of all of the values showing on the dice.
 Four-of-a-kind: At least four of the dice must show the same value. The score is equal to the sum of
 all of the values showing on the dice. 
 
-Full House:
+Full House: The dice show three of one number and two of another. Any Full House is worth 25 points.
 
 Small Straight:
 
