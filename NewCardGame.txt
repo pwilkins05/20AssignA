@@ -1,0 +1,2 @@
+We should make a card game that works like Go Fish, only you use cards that are actually cool looking.
+It would be a sci-fi themed game, and you would match up the cards that are the same. You would match up crew members to the correct room or area of the ship. For example, the engineer would go to the engine room, and the doctor would go to the medbay.
