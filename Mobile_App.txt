@@ -1,8 +1,10 @@
 When rolling the dice on the mobile app, the
 user taps a button to {YEET} 3D dice across the
+user taps a button to roll 3D dice across the
 screen. After rolling the camera moves to a
 birds eye view and the dice are automatically
 lined up in an easy to read way. The user can
 then select the {ice} they want to reroll if
+then select the dice they want to reroll if
 any and confirm their choice at the bottom of
 the screen.
